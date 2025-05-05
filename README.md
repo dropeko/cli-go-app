@@ -1,1 +1,1 @@
-# cli-go-app
+# Command Line Application - GO
